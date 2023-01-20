@@ -1,2 +1,10 @@
 #include <iostream>
 #include <SDL2\SDL.h>
+#include <math.h>
+#include <vector>
+#include <cstdint>
+#include <cstring>
+#include <algorithm>
+#include <chrono>
+#include <functional>
+#include <time.h>
